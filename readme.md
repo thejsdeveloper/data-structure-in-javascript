@@ -1,20 +1,15 @@
-# Let's Start with Webpack 4 
-### Webpack configuration introduction
+# Data Structure in Javascript
 
-![](https://raw.githubusercontent.com/thejsdeveloper/webpack4-setup/master/src/assets/images/webpack.gif)
+### Implementation of different Datastructures in JavaScript
 
-## This project provide following functionality: 
- 1. Webpack configuration for development and production
- 2. Transpile .ts and ES6+ to ES5
- 3. Convert SCSS to CSS
- 4. Managing static resources
- 5. Use of different plugins in Webpack
+## This project includes following Data Structure: 
+ 1. Linked list
 
 ### To clone the repository
-> Run `git clone https://github.com/thejsdeveloper/webpack4-setup.git`
+> Run `git clone https://github.com/thejsdeveloper/data-structure-in-javascript.git`
 
 ### Change directory
-> cd `webpack4-setup`
+> cd `data0structure-in-javascript`
 
 ### Install dependencies
 > npm install 

@@ -65,7 +65,7 @@ module.exports = {
 
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'Webpack 4 Starter',
+            title: 'DS in JS',
             template: './src/index.html',
             inject: true,
             minify: {

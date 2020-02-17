@@ -1,7 +1,7 @@
 {
-  "name": "webpack-starter",
+  "name": "data-structure-in-javascript",
   "version": "1.0.0",
-  "description": "This is a starter for traspiling scss and ES6+ to css and Javascript via webpack 4",
+  "description": "This is a project for implementation of various data structures in Javascript.",
   "main": "index.js",
   "scripts": {
     "build:dev": "cross-env NODE_ENV=development webpack --mode development",
